@@ -1,3 +1,6 @@
-# React + TypeScript + React Easy Crop + Image Crop
+# React +
+TypeScript + 
+React Easy Crop + 
+Image Crop
 
 
