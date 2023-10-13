@@ -1,6 +1,1 @@
-# React +
-TypeScript + 
-React Easy Crop + 
-Image Crop
-
-
+Image Crop Application In react Js
